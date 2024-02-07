@@ -13,7 +13,7 @@ export default hopeTheme({
 
     iconAssets: 'fontawesome-with-brands',
 
-    logo: 'https://theme-hope-assets.vuejs.press/logo.svg',
+    logo: '/logo.png',
 
     repo: 'https://github.com/zhf521/MyBlog',
 
@@ -70,12 +70,12 @@ export default hopeTheme({
         },
     },
 
-    // 加密配置
-    encrypt: {
-        config: {
-            '/demo/encrypt.html': ['1234'],
-        },
-    },
+    // // 加密配置
+    // encrypt: {
+    //     config: {
+    //         '/demo/encrypt.html': ['1234'],
+    //     },
+    // },
 
     // 多语言配置
     metaLocales: {
