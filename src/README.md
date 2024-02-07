@@ -7,6 +7,4 @@ title: 主页
 heroText: 茕茕の博客
 heroFullScreen: true
 tagline: 记录学习，分享生活
-footer: Copyright © 2024-present 茕茕
-copyright: false
 ---
