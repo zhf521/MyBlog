@@ -1,5 +1,6 @@
 ---
 title: 个人介绍
+icon: profile
 ---
 
 ## 关于我
