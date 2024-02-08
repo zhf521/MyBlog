@@ -1,5 +1,6 @@
 ---
 title: HTML
+icon: html5
 index: false
 dir:
   order: 1

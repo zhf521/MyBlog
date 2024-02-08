@@ -1,5 +1,6 @@
 ---
 title: JavaScript
+icon: js
 index: false
 dir:
     order: 3
