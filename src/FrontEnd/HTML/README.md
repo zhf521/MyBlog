@@ -1,9 +1,9 @@
 ---
 title: HTML
-icon: html5
+icon: html
 index: false
 dir:
-  order: 1
+    order: 1
 ---
 
 我是 html

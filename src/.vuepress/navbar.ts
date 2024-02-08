@@ -3,12 +3,12 @@ import { navbar } from 'vuepress-theme-hope';
 export default navbar([
     {
         text: '主页',
-        icon: 'house',
+        icon: 'home',
         link: '/',
     },
     {
         text: '前端',
-        icon: 'html5',
+        icon: 'html',
         link: '/FrontEnd/',
     },
 ]);

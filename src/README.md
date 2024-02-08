@@ -1,7 +1,7 @@
 ---
 home: true
 layout: BlogHome
-icon: house
+icon: home
 title: 主页
 # heroImage: ./logo.png
 heroText: 茕茕の博客

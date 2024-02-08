@@ -1,6 +1,6 @@
 ---
 title: JavaScript
-icon: js
+icon: javascript
 index: false
 dir:
     order: 3
