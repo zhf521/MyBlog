@@ -4,7 +4,7 @@ import sidebar from './sidebar.js';
 
 export default hopeTheme({
     hostname: 'https://zhf521.github.io',
-
+    favicon: '/favicon.ico',
     author: {
         name: '茕茕',
         url: 'https://zhf521.github.io/MyBlog/',
