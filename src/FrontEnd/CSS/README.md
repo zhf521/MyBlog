@@ -1,6 +1,5 @@
 ---
 title: CSS
-icon: css
 index: false
 dir:
     order: 2
