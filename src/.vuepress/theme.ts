@@ -1,6 +1,7 @@
 import { hopeTheme } from 'vuepress-theme-hope';
 import navbar from './navbar.js';
 import sidebar from './sidebar.js';
+import { cut } from 'nodejs-jieba';
 
 export default hopeTheme({
     hostname: 'https://zhf521.github.io',
@@ -86,6 +87,14 @@ export default hopeTheme({
     // 在这里配置主题提供的插件
     plugins: {
         blog: true,
+        searchPro: {
+            indexContent: true,
+            indexOptions: {
+                // 使用 nodejs-jieba 进行分词
+                tokenize: (text, fieldName) =>
+                    fieldName === 'id' ? [text] : cut(text, true),
+            },
+        },
 
         // 在启用之前需要安装 @waline/client
         // 警告: 这是一个仅供演示的测试服务器，在生产环境中请自行部署并使用自己的服务器！
