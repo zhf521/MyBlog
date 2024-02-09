@@ -39,4 +39,4 @@ cd 你的项目文件夹
 npm run start:dev
 ```
 
-在浏览器中，打开 `http://localhost:3000` 查看运行情况。
+在浏览器中，打开 `localhost:3000` 查看运行情况。
