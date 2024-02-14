@@ -19,6 +19,6 @@ export default navbar([
     {
         text: '软件工具',
         icon: 'tool',
-        link: '/SoftwareTools/',
+        link: '/SoftwareTool/',
     },
 ]);
