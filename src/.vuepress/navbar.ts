@@ -23,7 +23,7 @@ export default navbar([
     },
     {
         text: '关于我',
-        icon: '',
+        icon: 'profile',
         link: '/Intro/',
     },
 ]);
