@@ -24,6 +24,6 @@ export default navbar([
     {
         text: '关于我',
         icon: 'profile',
-        link: '/Intro/',
+        link: '/Intro',
     },
 ]);
