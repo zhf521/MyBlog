@@ -16,4 +16,9 @@ export default navbar([
         icon: 'back-stage',
         link: '/BackEnd/',
     },
+    {
+        text: '软件工具',
+        icon: 'tool',
+        link: '/SoftwareTools/',
+    },
 ]);
