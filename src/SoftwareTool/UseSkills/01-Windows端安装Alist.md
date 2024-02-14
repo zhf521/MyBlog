@@ -8,7 +8,7 @@ tag:
     - Alist
 ---
 
-## 1. 安装
+## 安装
 
 Github 地址：[Alist](https://github.com/alist-org/alist)
 
@@ -28,7 +28,7 @@ INFO[2023-12-02 02:21:36] Successfully created the admin user and the initial pa
 
 从浏览器进入 `localhost:5244` 访问即可配置
 
-## 2. 开机自启
+## 开机自启
 
 在 `alist.exe` 文件的目录里新建一个文件名为 `alist.vbs`
 
@@ -44,6 +44,6 @@ ws.run "alist.exe server",vbhide
 
 将快捷方式粘贴进来即可
 
-## 3. 更新
+## 更新
 
 去官网下载最新安装包，将 `alist.exe` 文件替换为最新的即可
