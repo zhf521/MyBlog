@@ -22,7 +22,7 @@ export default navbar([
         link: '/SoftwareTool/',
     },
     {
-        text: '关于',
+        text: '关于我',
         icon: 'profile',
         link: '/Intro.html',
     },
