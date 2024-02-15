@@ -28,6 +28,10 @@ INFO[2023-12-02 02:21:36] Successfully created the admin user and the initial pa
 
 从浏览器进入 `localhost:5244` 访问即可配置
 
+## 添加存储
+
+查看官方文档即可[AList 文档](https://alist.nn.ci/zh/)
+
 ## 开机自启
 
 在 `alist.exe` 文件的目录里新建一个文件名为 `alist.vbs`
