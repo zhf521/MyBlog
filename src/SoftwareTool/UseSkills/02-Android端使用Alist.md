@@ -1,5 +1,5 @@
 ---
-title: Android 端安装 Alist
+title: Android 端使用 Alist
 order: 2
 category: 软件工具
 tag:

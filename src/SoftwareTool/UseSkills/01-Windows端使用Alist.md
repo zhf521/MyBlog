@@ -1,5 +1,5 @@
 ---
-title: Windows 端安装 Alist
+title: Windows 端使用 Alist
 order: 1
 category: 软件工具
 tag:
