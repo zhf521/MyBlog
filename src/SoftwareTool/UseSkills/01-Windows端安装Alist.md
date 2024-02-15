@@ -30,7 +30,7 @@ INFO[2023-12-02 02:21:36] Successfully created the admin user and the initial pa
 
 ## 添加存储
 
-查看官方文档即可[AList 文档](https://alist.nn.ci/zh/)
+查看官方文档即可：[AList 文档](https://alist.nn.ci/zh/)
 
 ## 开机自启
 
