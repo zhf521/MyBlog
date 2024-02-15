@@ -22,7 +22,7 @@ Github 地址：[Alist](https://github.com/alist-org/alist)
 
 在输出的 INFO 中可以看到密码：
 
-```shell
+```bash
 INFO[2023-12-02 02:21:36] Successfully created the admin user and the initial password is: 此处为密码
 ```
 

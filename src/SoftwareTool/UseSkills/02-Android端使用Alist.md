@@ -18,19 +18,19 @@ tag:
 
 在 termux 中输入如下命令：
 
-```shell
+```bash
 apt update && apt install alist
 ```
 
 启动 Alist：
 
-```shell
+```bash
 alist server
 ```
 
 在输出的 INFO 中可以看到密码：
 
-```shell
+```bash
 INFO[2023-12-02 02:21:36] Successfully created the admin user and the initial password is: 此处为密码
 ```
 
@@ -44,31 +44,31 @@ INFO[2023-12-02 02:21:36] Successfully created the admin user and the initial pa
 
 下载 vim：
 
-```shell
+```bash
 pkg install vim
 ```
 
 建立文件夹：
 
-```shell
+```bash
 mkdir .shortcuts
 ```
 
 进入文件夹：
 
-```shell
+```bash
 cd .shortcuts
 ```
 
 编辑脚本：
 
-```shell
+```bash
 vim start_alist.sh
 ```
 
 进入脚本编辑界面，按 `i` 进入编辑模式，输入以下内容：
 
-```shell
+```bash
 alist server
 ```
 
@@ -80,6 +80,6 @@ alist server
 
 在 termux 中输入以下命令即可：
 
-```shell
+```bash
 pkg upgrade alist
 ```
