@@ -96,12 +96,14 @@ export default hopeTheme({
             },
         },
 
-        // 在启用之前需要安装 @waline/client
-        // 警告: 这是一个仅供演示的测试服务器，在生产环境中请自行部署并使用自己的服务器！
-        // comment: {
-        //   provider: "Waline",
-        //   serverURL: "https://waline-comment.vuejs.press",
-        // },
+        comment: {
+            provider: 'Giscus',
+            //   serverURL: "https://waline-comment.vuejs.press",
+            repo: 'zhf521/MyBlog',
+            repoId: 'R_kgDOLPFQgwR_kgDOLPFQgw',
+            category: 'Announcements',
+            categoryId: 'DIC_kwDOLPFQg84CdS3s',
+        },
 
         components: {
             components: ['Badge', 'VPCard'],
