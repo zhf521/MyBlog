@@ -98,9 +98,8 @@ export default hopeTheme({
 
         comment: {
             provider: 'Giscus',
-            //   serverURL: "https://waline-comment.vuejs.press",
             repo: 'zhf521/MyBlog',
-            repoId: 'R_kgDOLPFQgwR_kgDOLPFQgw',
+            repoId: 'R_kgDOLPFQgw',
             category: 'Announcements',
             categoryId: 'DIC_kwDOLPFQg84CdS3s',
         },
