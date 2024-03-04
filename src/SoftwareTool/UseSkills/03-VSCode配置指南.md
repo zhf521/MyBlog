@@ -21,3 +21,11 @@ tag:
 ## 设置字体系列
 
 在设置中搜索 `Font Family`，找到 `Editor:Font Family` 并设置为：`JetBrains Mono,Consolas,'Courier New',monospace`。
+
+## 保存时自动格式化
+
+在设置中搜索 `Format On Save`，找到 `Editor:Format On Save` 并设置为 `true`。
+
+## 设置对话框样式
+
+在设置中搜索 `Dialog Style`，找到 `Dialog Style` 并设置为 `custom`。
