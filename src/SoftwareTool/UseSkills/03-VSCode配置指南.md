@@ -22,10 +22,16 @@ tag:
 
 在设置中搜索 `Font Family`，找到 `Editor:Font Family` 并设置为：`JetBrains Mono,Consolas,'Courier New',monospace`。
 
-## 保存时自动格式化
+## 设置自动格式化
 
 在设置中搜索 `Format On Save`，找到 `Editor:Format On Save` 并设置为 `true`。
+
+在设置中搜索 `Format On Type`，找到 `Editor:Format On Type` 并设置为 `true`。
 
 ## 设置对话框样式
 
 在设置中搜索 `Dialog Style`，找到 `Dialog Style` 并设置为 `custom`。
+
+## 设置光标动画样式
+
+在设置中搜索 `Cursor Blinking`，找到 `Cursor Blinking` 并设置为 `smooth`。
