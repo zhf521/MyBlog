@@ -3,9 +3,9 @@ title: VSCode 配置指南
 order: 3
 category: 软件工具
 tag:
-    - 软件工具
-    - 手机
-    - VSCode
+  - 软件工具
+  - 手机
+  - VSCode
 ---
 
 > 记录我的 VSCode 基础配置过程

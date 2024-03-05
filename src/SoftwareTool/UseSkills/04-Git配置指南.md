@@ -3,9 +3,9 @@ title: Git 配置指南
 order: 4
 category: 软件工具
 tag:
-    - 软件工具
-    - 手机
-    - Git
+  - 软件工具
+  - 手机
+  - Git
 ---
 
 ## 查看配置信息
@@ -20,6 +20,7 @@ git config --list
 git config --global user.name "Your Name"
 git config --global user.email "email@example.com"
 ```
+
 ## 配置代理
 
 ### 设置全局代理
@@ -31,6 +32,7 @@ git config --global http.proxy http://127.0.0.1:7890
 ```bash
 git config --global https.proxy https://127.0.0.1:7890
 ```
+
 ### 取消设置全局代理
 
 ```bash
@@ -46,9 +48,11 @@ git config --global --unset https.proxy
 ```bash
 git config --global http.https://github.com.proxy http://127.0.0.1:7890
 ```
+
 ```bash
 git config --global https.https://github.com.proxy https://127.0.0.1:7890
 ```
+
 ### 取消设置对 GitHub 代理
 
 ```bash

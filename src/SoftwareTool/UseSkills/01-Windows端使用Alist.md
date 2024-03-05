@@ -3,9 +3,9 @@ title: Windows 端使用 Alist
 order: 1
 category: 软件工具
 tag:
-    - 软件工具
-    - 电脑
-    - Alist
+  - 软件工具
+  - 电脑
+  - Alist
 ---
 
 ## 安装

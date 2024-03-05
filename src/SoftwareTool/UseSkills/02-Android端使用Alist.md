@@ -3,9 +3,9 @@ title: Android 端使用 Alist
 order: 2
 category: 软件工具
 tag:
-    - 软件工具
-    - 手机
-    - Alist
+  - 软件工具
+  - 手机
+  - Alist
 ---
 
 ## 安装 termux
