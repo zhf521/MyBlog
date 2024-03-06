@@ -22,7 +22,7 @@ background-clip: text; /*将设置的背景颜色限制在文字中*/
 -webkit-text-fill-color: transparent; /*将文字设置为透明*/
 ```
 
-::: 效果演示
+::: [normal]-demo 效果演示
 
 ```html
 <div class="gradient-text">我是渐变色文字</div>
