@@ -26,7 +26,6 @@ background-clip: text; /*将设置的背景颜色限制在文字中*/
 
 ```html
 <div class="gradient-text">我是渐变色文字</div>
-
 ```
 
 ```css
