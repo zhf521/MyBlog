@@ -1,7 +1,7 @@
 import { sidebar } from 'vuepress-theme-hope';
 
 export default sidebar({
-    // '/FrontEnd/': 'structure',
+    '/FrontEnd/': 'structure',
     '/BackEnd/': 'structure',
     '/SoftwareTool/': 'structure',
 });

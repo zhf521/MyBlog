@@ -6,11 +6,11 @@ export default navbar([
         icon: 'home',
         link: '/',
     },
-    // {
-    //     text: '前端',
-    //     icon: 'html',
-    //     link: '/FrontEnd/',
-    // },
+    {
+        text: '前端',
+        icon: 'html',
+        link: '/FrontEnd/',
+    },
     {
         text: '后端',
         icon: 'back-stage',
