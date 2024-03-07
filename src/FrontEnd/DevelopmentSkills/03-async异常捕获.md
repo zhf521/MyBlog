@@ -9,7 +9,7 @@ tag:
 
 ## 使用 try-catch 捕获异常
 
-```js
+```javascript
 async function async1() {
   try {
     await async2();
@@ -19,7 +19,7 @@ async function async1() {
 ```
 ## 使用 Promise.catch 捕获异常
 
-```js
+```javascript
 async function async1() {
   await async2().catch(error => {
     console.log(error);
@@ -33,7 +33,7 @@ async function async1() {
 
 原来的代码：
 
-```js
+```javascript
 async function async1() {
     try {
         await asyncFn1();
@@ -46,7 +46,7 @@ async function async1() {
 
 我们封装一个工具函数：
 
-```js
+```javascript
 async tryCatch(asyncFn) {
     try {
         let res = await asyncFn;
@@ -59,7 +59,7 @@ async tryCatch(asyncFn) {
 
 现在我们使用封装好的工具函数：
 
-```js
+```javascript
 async function async1() {
     let [error1,res1] = await tryCatch(asyncFn1);
     let [error2,res2] = await tryCatch(asyncFn2);
