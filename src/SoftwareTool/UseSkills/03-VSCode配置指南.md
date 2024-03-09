@@ -35,3 +35,15 @@ tag:
 ## 设置光标动画样式
 
 在设置中搜索 `Cursor Blinking`，找到 `Cursor Blinking` 并设置为 `smooth`。
+
+## 设置 HTML 标签关联编辑
+
+在设置中搜索 `Linked Editing`，找到 `Editor:Linked Editing` 并设置为 `true`。
+
+## 设置 JavaScript 语义检查
+
+在设置中搜索 `Check JS`，找到 `Implicit Project Config:Check JS` 并设置为 `true`。
+
+## 设置 JavaScript、TypeScript 格式化时添加分号
+
+在设置中搜索 `Semicolons`，找到 `Format:Semicolons` 并设置为 `insert`。
