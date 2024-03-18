@@ -17,6 +17,11 @@ export default navbar([
         link: '/BackEnd/',
     },
     {
+        text: '嵌入式',
+        icon: 'process',
+        link: '/Embedded/',
+    },
+    {
         text: '软件工具',
         icon: 'tool',
         link: '/SoftwareTool/',

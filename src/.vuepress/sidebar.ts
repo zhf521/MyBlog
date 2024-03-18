@@ -4,4 +4,5 @@ export default sidebar({
     '/FrontEnd/': 'structure',
     '/BackEnd/': 'structure',
     '/SoftwareTool/': 'structure',
+    '/Embedded/': 'structure',
 });
